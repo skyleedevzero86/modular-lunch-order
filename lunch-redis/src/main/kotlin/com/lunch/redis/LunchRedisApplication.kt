@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class LunchRedisApplication
 
 fun main(args: Array<String>) {
-	runApplication<LunchRedisApplication>(*args)
+    runApplication<LunchRedisApplication>(*args)
 }

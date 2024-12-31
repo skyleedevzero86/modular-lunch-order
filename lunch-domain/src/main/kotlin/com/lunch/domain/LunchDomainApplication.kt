@@ -7,5 +7,5 @@ import org.springframework.boot.runApplication
 class LunchDomainApplication
 
 fun main(args: Array<String>) {
-	runApplication<LunchDomainApplication>(*args)
+    runApplication<LunchDomainApplication>(*args)
 }
