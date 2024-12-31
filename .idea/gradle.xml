@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-admin" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-admin" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-admin/lunch-redis" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-admin/lunch-redis" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-api" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-api" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-batch" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-batch" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-common" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-common" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-common/lunch-core" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-common/lunch-core" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-delivery" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-delivery" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-domain" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-domain" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-logging" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-logging" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-member" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-member" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-menu" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-menu" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-order" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-order" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-payment" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-payment" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-restaurant" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-restaurant" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-search" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-search" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$/lunch-security" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/lunch-security" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

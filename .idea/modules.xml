@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lunch-admin/lunch-admin.iml" filepath="$PROJECT_DIR$/lunch-admin/lunch-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lunch-domain/lunch-domain.iml" filepath="$PROJECT_DIR$/lunch-domain/lunch-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lunch-restaurant/lunch-restaurant.iml" filepath="$PROJECT_DIR$/lunch-restaurant/lunch-restaurant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lunch-search/lunch-search.iml" filepath="$PROJECT_DIR$/lunch-search/lunch-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modular-lunch-order.iml" filepath="$PROJECT_DIR$/.idea/modular-lunch-order.iml" />
+    </modules>
+  </component>
+</project>
