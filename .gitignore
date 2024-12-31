@@ -1,3 +1,6 @@
+.idea/
+*.yml
+
 # Compiled class file
 *.class
 
