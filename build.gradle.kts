@@ -73,5 +73,10 @@ subprojects {
 
         // Swagger
         add("implementation", "org.springdoc:springdoc-openapi-starter-webmvc-ui:2.6.0")
+
+        //jsp
+
+        //mybatis
+
     }
 }

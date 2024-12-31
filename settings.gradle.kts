@@ -19,5 +19,7 @@ include(
     "lunch-menu",
     "lunch-payment",
     "lunch-delivery",
-    "lunch-restaurant"
+    "lunch-restaurant",
+    "lunch-web",
+    "lunch-infrastructure"
 )
