@@ -21,5 +21,6 @@ include(
     "lunch-delivery",
     "lunch-restaurant",
     "lunch-web",
-    "lunch-infrastructure"
+    "lunch-infrastructure",
+    "lunch-support"
 )
