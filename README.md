@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/cd60adfa-96cf-4fb2-a038-d5ff873c79c1)
+
 # 주문-결제-배송 시스템
 
 - 편의상 프로젝트는 단일 Repository에 모듈 구조로 되어있지만, 각 서버는 독립된 환경이라고 간주한다.
